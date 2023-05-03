@@ -1,0 +1,11 @@
+Date,Description,Amount,Is Expense
+2023-05-03,Gaming,500.0,true
+2023-05-03,Gaming,90.0,true
+2023-05-02,Groceries,45.23,true
+2023-04-30,Travel,320.0,true
+2023-04-25,Gasoline,50.0,true
+2023-04-23,Books,20.0,true
+2023-04-20,Gifts,75.0,true
+2023-04-17,Travel,450.0,true
+null,Entertainment,122.0,true
+null,Videogame,100.0,false
