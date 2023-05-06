@@ -11,3 +11,8 @@ This project is a Java-based desktop application for managing finances through a
 ![login_successful](https://user-images.githubusercontent.com/47611143/235839063-e2cf3bcd-77ad-4c76-84b4-b1fa65194b5b.PNG)
 ![transactions](https://user-images.githubusercontent.com/47611143/235839065-85423058-52ea-4ac2-a901-6e0d7ef5d65b.PNG)
 ![transactions_add](https://user-images.githubusercontent.com/47611143/235839066-3f82f063-c265-4ed8-942b-4f2a6f6ffe12.PNG)
+
+Here are some random (rand state) screenshots of the database: 
+![transactions](https://user-images.githubusercontent.com/47611143/236593986-307a7509-5eae-4080-92c9-98e4d0c1f789.PNG)
+![budgets](https://user-images.githubusercontent.com/47611143/236593987-179a9ff2-eff9-4a7e-8090-bc94fd9414bb.PNG)
+![login](https://user-images.githubusercontent.com/47611143/236593988-961b4f1a-0d96-49d9-8874-1531732ad3c5.PNG)
